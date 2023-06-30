@@ -23,7 +23,6 @@ This repository contains a Jupyter Notebook file that implements a machine learn
 - Jupyter Notebook
 
 ## Results
-- The model's performance can be evaluated using metrics such as accuracy, precision, recall, and F1-score.
 - The results can be viewed and analyzed within the Jupyter Notebook.
 
 ## License
