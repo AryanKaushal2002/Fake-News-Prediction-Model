@@ -33,5 +33,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The Fake News competition dataset is provided by Kaggle.
 - The model implementation and techniques are inspired by various resources and tutorials in the field of machine learning.
 
-For more details and a step-by-step guide, refer to the [`Jupyter Notebook file`](Fake_News_Prediction_using_Machine_Learning.ipynb) in this repository.
+For more details and a step-by-step guide, refer to the [`Jupyter Notebook file`](https://github.com/AryanKaushal2002/Fake-News-Prediction-Model/blob/main/Fake%20News%20Detection/Fake_News_Prediction_using_Machine_Learning.ipynb) in this repository.
 
